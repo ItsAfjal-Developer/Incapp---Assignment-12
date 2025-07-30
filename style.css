@@ -1,0 +1,178 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #fff;
+  line-height: 1.6;
+  background-color: #1d1d2c;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hdr {
+  text-align: center;
+  padding-bottom: 60px;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+    url("images/BANNER.jpg") center/cover no-repeat;
+}
+
+.nav {
+  display: flex;
+  padding: 30px 80px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 24px;
+  color: #d0c399;
+  font-weight: bold;
+}
+
+span {
+  color: black;
+}
+
+.nav-links {
+  gap: 15px;
+  display: flex;
+  list-style: none;
+}
+
+.nav-links a {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #ff4c60;
+}
+
+.btn1 {
+  font-size: 14px;
+  font-weight: bold;
+  color: #050400;
+  padding: 5px 13px;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #d0c399;
+}
+
+.hero-img {
+  width: 120px;
+  height: 120px;
+  margin-top: 30px;
+  border-radius: 50%;
+  border: 4px solid #d0c399;
+}
+
+.hero h1 {
+  font-size: 32px;
+  color: #d0c399;
+  margin-top: 20px;
+}
+
+.hero p {
+  font-size: 16px;
+  color: #ccc;
+}
+
+.abt {
+  display: flex;
+  padding: 90px;
+  background-color: #151522;
+}
+
+.abt-title img {
+  width: 300px;
+  border: 5px solid rgb(211, 205, 205);
+}
+
+.abt-info {
+  padding-left: 40px;
+}
+
+.abt-info span {
+  font-size: 25px;
+  color: #d0c399;
+  font-weight: bold;
+}
+
+.abt-info h2 {
+  font-size: 30px;
+  margin: 10px 0 30px;
+}
+
+.abt-info {
+  flex: 1;
+}
+
+.abt-grid {
+  gap: 30px;
+  color: #fff;
+  display: flex;
+  padding: 30px;
+  margin: 40px 0;
+  flex-wrap: wrap;
+  max-width: 700px;
+  border-radius: 10px;
+  background-color: #111123;
+  border: 2px solid #e0c97f;
+  justify-content: space-between;
+}
+
+.abt-grid div {
+  flex: 1;
+  min-width: 280px;
+}
+
+.abt-grid p {
+  margin: 8px 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.footer {
+  padding: 80px;
+  background-color: #1d1d2c;
+}
+
+.footer-title span {
+  font-size: 25px;
+  color: #d0c399;
+  font-weight: bold;
+}
+
+.footer-title h2 {
+  font-size: 30px;
+  margin: 10px 0 30px;
+}
+
+.svc-grid {
+  gap: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.svc-box {
+  flex: 1;
+  padding: 30px;
+  min-width: 250px;
+  border-radius: 5px;
+  border: 1px solid #d0c399;
+}
+
+.svc-box h3 {
+  color: #d0c399;
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.svc-box p {
+  font-size: 14px;
+  color: #ccc;
+}
