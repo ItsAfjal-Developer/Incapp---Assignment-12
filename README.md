@@ -19,7 +19,7 @@ This is the 9th Assignment Project from INCAPP Institute, Created as part of the
 
 ## Screenshots
 
-Below is a Preview of **Assignment 10**, Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 9**, Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 
