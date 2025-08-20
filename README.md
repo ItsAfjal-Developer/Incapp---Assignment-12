@@ -21,7 +21,7 @@ The Assignment Demonstrates Practical use of **HTML** and **CSS** to Create a Vi
 
 ## Screenshots
 
-Below is a Preview of **Assignment 12<sup>th</sup>** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 12<sup>th</sup>** , Showcasing the Layout and Styling Implemented using pure HTML and CSS. 
 The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
 
